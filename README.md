@@ -35,6 +35,6 @@ You can install the required dependencies using `pip`:
 ```bash
 pip install PyPDF2 fitz pillow
 
-Running the Application
+### Running the Application
 python pdfEditor2.py
 The PDF Editor interface will open, allowing you to load and modify PDF files.
