@@ -32,9 +32,9 @@ This is a Python-based PDF editor that allows users to open, view, and modify PD
 ### Installing Dependencies
 You can install the required dependencies using `pip`:
 
-```bash
+bash
 pip install PyPDF2 fitz pillow
 
-### Running the Application
+### Installing Dependencies
 python pdfEditor2.py
 The PDF Editor interface will open, allowing you to load and modify PDF files.
