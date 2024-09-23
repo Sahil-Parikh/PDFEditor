@@ -1,5 +1,5 @@
 #To Install dependencies: "pip install PyPDF2 fitz pillow"
-#To Run: type "python pdfEditor2.py" in terminal 
+#To Run: type "python pdfEditor.py" in terminal 
 import os
 import tkinter as tk
 from tkinter import filedialog, messagebox, simpledialog
